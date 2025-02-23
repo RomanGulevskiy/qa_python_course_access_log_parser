@@ -1,0 +1,42 @@
+{
+  "top_ips": {
+    "193.106.31.130": 235209,
+    "198.50.156.189": 167812,
+    "5.112.235.245": 166722
+  },
+  "top_longest": [
+    {
+      "ip": "62.93.172.245",
+      "datetime": "[23/Dec/2015:07:27:57 +0100]",
+      "method": "POST",
+      "url": "-",
+      "duration": 10000
+    },
+    {
+      "ip": "213.162.68.113",
+      "datetime": "[06/Jan/2016:18:47:57 +0100]",
+      "method": "GET",
+      "url": "http://www.almhuette-raith.at/index.php",
+      "duration": 10000
+    },
+    {
+      "ip": "194.166.55.43",
+      "datetime": "[06/Jan/2016:21:29:02 +0100]",
+      "method": "GET",
+      "url": "http://www.almhuette-raith.at/index.php",
+      "duration": 10000
+    }
+  ],
+  "total_stat": {
+    "GET": 2247848,
+    "HEAD": 49971,
+    "OPTIONS": 39,
+    "TRACE": 0,
+    "PUT": 70,
+    "DELETE": 1,
+    "POST": 918794,
+    "PATCH": 0,
+    "CONNECT": 0
+  },
+  "total_requests": 3216723
+}
